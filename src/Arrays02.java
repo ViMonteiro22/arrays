@@ -17,8 +17,8 @@ public class Arrays02 {
         idades[1] = 27;
         idades[2] = 34; */
 
-        System.out.println(status [0]);
-        System.out.println(status [1]);
-        System.out.println(status [2]);
+        System.out.println(nomes [0]);
+        System.out.println(nomes [1]);
+        System.out.println(nomes [2]);
     }
 }
